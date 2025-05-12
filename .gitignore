@@ -1,0 +1,13 @@
+node_modules/
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Arquivos pessoais
+.cache/
+.config/
+.gitconfig
+.gradle/
+.bash_history
+.eclipse/
